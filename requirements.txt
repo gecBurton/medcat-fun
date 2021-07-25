@@ -1,0 +1,6 @@
+medcat==1.0.36
+https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.3.0/en_core_sci_md-0.3.0.tar.gz
+https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.3.0/en_core_sci_lg-0.3.0.tar.gz
+fastapi==0.67.0
+pydantic==1.8.2
+uvicorn[standard]==0.14.0
